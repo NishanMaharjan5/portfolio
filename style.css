@@ -105,6 +105,10 @@ section {
     color: var(--light);
 }
 
+.btn i {
+    margin-right: 6px;
+}
+
 /* Navigation */
 .navbar {
     position: fixed;
